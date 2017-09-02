@@ -1,4 +1,8 @@
-# datasciencecoursera
-Peer-graded assignment
+# Developing Data Products
 
-This is my demo
+This repository contains the following files:
+
+* ui.R 
+* server.R 
+* regression model report 
+
